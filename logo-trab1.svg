@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!--Created with Sketsa SVG Editor (http://www.kiyut.com)-->
+<svg contentScriptType="text/ecmascript" width="100.0px" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full"
+    zoomAndPan="magnify" contentStyleType="text/css" height="100.0px" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+    version="1.0">
+    <rect fill="#ffcccc" x="0.5" width="99.0" height="100.5" y="0.0" stroke="none"/>
+    <rect fill="#ff6600" x="75.00001" width="100.74999" height="111.49999" y="-8.0" stroke="none"/>
+    <rect fill="#ff6600" x="73.99999" width="130.0" height="77.32459" y="78.67541" stroke="none"/>
+    <ellipse rx="60.125" fill="#33ffff" ry="53.625" cx="104.875" cy="80.375" stroke="none"/>
+    <ellipse rx="31.125" fill="#66ff00" ry="32.5" cx="13.375" cy="43.25" stroke="none"/>
+    <text x="35.0" y="40.0"><tspan xml:space="preserve"> </tspan></text>
+    <text x="72.0" y="39.0"><tspan xml:space="preserve"> </tspan></text>
+    <text x="121.0" y="69.0"><tspan xml:space="preserve">here is the text </tspan></text>
+    <text x="97.0" y="65.0"/>
+    <text x="241.0" y="51.0"><tspan xml:space="preserve">here is the text </tspan></text>
+    <text x="22.25" y="51.5"><tspan font-size="28" font-family="'Caflisch Script', 'Adobe Poetica', 'Sanvito', cursive"
+            xml:space="preserve">C  V </tspan><tspan xml:space="preserve"> </tspan></text>
+</svg>
